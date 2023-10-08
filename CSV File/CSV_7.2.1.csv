@@ -1,0 +1,198 @@
+Entity,Year,Renewables (% electricity)
+High income,1985,18.607388
+High income,1986,18.311928
+High income,1987,17.56491
+High income,1988,16.94861
+High income,1989,15.9158535
+High income,1990,16.085632
+High income,1991,16.053524
+High income,1992,15.778353
+High income,1993,16.211617
+High income,1994,15.456468
+High income,1995,15.90244
+High income,1996,15.785259
+High income,1997,15.981293
+High income,1998,15.322216
+High income,1999,15.164877
+High income,2000,15.524849
+High income,2001,14.647579
+High income,2002,14.659053
+High income,2003,14.433806
+High income,2004,14.568344
+High income,2005,14.733666
+High income,2006,14.987589
+High income,2007,14.827731
+High income,2008,15.768618
+High income,2009,16.857082
+High income,2010,16.872408
+High income,2011,18.080044
+High income,2012,18.950392
+High income,2013,20.256712
+High income,2014,21.079607
+High income,2015,21.695608
+High income,2016,22.497343
+High income,2017,23.685947
+High income,2018,24.363943
+High income,2019,25.39742
+High income,2020,27.96224
+High income,2021,27.912779
+High income,2022,28.278028
+Low income,2000,54.820694
+Low income,2001,55.23512
+Low income,2002,54.265217
+Low income,2003,52.870552
+Low income,2004,54.07279
+Low income,2005,53.822803
+Low income,2006,52.453545
+Low income,2007,52.81739
+Low income,2008,50.23923
+Low income,2009,50.07272
+Low income,2010,52.135708
+Low income,2011,56.483227
+Low income,2012,59.124264
+Low income,2013,65.34314
+Low income,2014,67.2836
+Low income,2015,66.31854
+Low income,2016,66.24028
+Low income,2017,66.21707
+Low income,2018,67.152214
+Low income,2019,67.02806
+Low income,2020,69.51092
+Low income,2021,68.90965
+Lower middle income,1985,17.186714
+Lower middle income,1986,16.640606
+Lower middle income,1987,15.701877
+Lower middle income,1988,16.253084
+Lower middle income,1989,16.389696
+Lower middle income,1990,16.610855
+Lower middle income,1991,17.032202
+Lower middle income,1992,16.945047
+Lower middle income,1993,17.663319
+Lower middle income,1994,18.343288
+Lower middle income,1995,17.15935
+Lower middle income,1996,16.64172
+Lower middle income,1997,15.016879
+Lower middle income,1998,17.134441
+Lower middle income,1999,16.328129
+Lower middle income,2000,18.835123
+Lower middle income,2001,18.481768
+Lower middle income,2002,17.639402
+Lower middle income,2003,17.761469
+Lower middle income,2004,19.128988
+Lower middle income,2005,18.865294
+Lower middle income,2006,19.432966
+Lower middle income,2007,19.340454
+Lower middle income,2008,18.601826
+Lower middle income,2009,17.931164
+Lower middle income,2010,18.141293
+Lower middle income,2011,18.698774
+Lower middle income,2012,18.11498
+Lower middle income,2013,19.119925
+Lower middle income,2014,18.384357
+Lower middle income,2015,17.598558
+Lower middle income,2016,17.542564
+Lower middle income,2017,18.785755
+Lower middle income,2018,19.306526
+Lower middle income,2019,20.238832
+Lower middle income,2020,21.60483
+Lower middle income,2021,21.122948
+Lower middle income,2022,19.481968
+OECD members,2000,16.70828
+OECD members,2001,15.690088
+OECD members,2002,15.808576
+OECD members,2003,15.645565
+OECD members,2004,15.930296
+OECD members,2005,16.027851
+OECD members,2006,16.427696
+OECD members,2007,16.15831
+OECD members,2008,17.241129
+OECD members,2009,18.306492
+OECD members,2010,18.463879
+OECD members,2011,19.87418
+OECD members,2012,20.826504
+OECD members,2013,22.120644
+OECD members,2014,22.937637
+OECD members,2015,23.884134
+OECD members,2016,24.721905
+OECD members,2017,26.08839
+OECD members,2018,26.724852
+OECD members,2019,28.138884
+OECD members,2020,30.828867
+OECD members,2021,30.781162
+OECD members,2022,32.26397
+Upper middle income,1985,25.525778
+Upper middle income,1986,24.815308
+Upper middle income,1987,24.490665
+Upper middle income,1988,24.812283
+Upper middle income,1989,24.351574
+Upper middle income,1990,24.817833
+Upper middle income,1991,24.73858
+Upper middle income,1992,25.251396
+Upper middle income,1993,26.752357
+Upper middle income,1994,27.202831
+Upper middle income,1995,27.828545
+Upper middle income,1996,26.729782
+Upper middle income,1997,26.648136
+Upper middle income,1998,26.617714
+Upper middle income,1999,25.769962
+Upper middle income,2000,26.299173
+Upper middle income,2001,25.786194
+Upper middle income,2002,25.161827
+Upper middle income,2003,23.476582
+Upper middle income,2004,24.048832
+Upper middle income,2005,23.761805
+Upper middle income,2006,22.993547
+Upper middle income,2007,22.16279
+Upper middle income,2008,23.674704
+Upper middle income,2009,23.453707
+Upper middle income,2010,23.796364
+Upper middle income,2011,22.47563
+Upper middle income,2012,24.014769
+Upper middle income,2013,23.907337
+Upper middle income,2014,24.712736
+Upper middle income,2015,25.979784
+Upper middle income,2016,27.153437
+Upper middle income,2017,27.416338
+Upper middle income,2018,27.990631
+Upper middle income,2019,29.09207
+Upper middle income,2020,30.26793
+Upper middle income,2021,30.273745
+Upper middle income,2022,31.650919
+World,1985,20.817348
+World,1986,20.545147
+World,1987,19.913595
+World,1988,19.683336
+World,1989,18.829762
+World,1990,19.062788
+World,1991,19.10929
+World,1992,19.007936
+World,1993,19.70869
+World,1994,19.380075
+World,1995,19.722404
+World,1996,19.40712
+World,1997,19.361635
+World,1998,19.061842
+World,1999,18.75546
+World,2000,19.066658
+World,2001,18.4008
+World,2002,18.215073
+World,2003,17.749758
+World,2004,18.294706
+World,2005,18.408192
+World,2006,18.517977
+World,2007,18.235817
+World,2008,19.261967
+World,2009,19.795107
+World,2010,19.963503
+World,2011,20.2898
+World,2012,21.249811
+World,2013,22.031334
+World,2014,22.605082
+World,2015,23.290602
+World,2016,24.092064
+World,2017,24.919165
+World,2018,25.541533
+World,2019,26.578062
+World,2020,28.450262
+World,2021,28.355785
+World,2022,29.90971
