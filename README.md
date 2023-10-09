@@ -1,4 +1,6 @@
 # SU-PHD-TM
-For Ph.D. Dissertation
+Ph.D. Dissertation
 
 Student Name: Ka Wah Philip Ng
+
+October 2023
